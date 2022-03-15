@@ -19,4 +19,5 @@ More about us at https://advestis.com
 
 ## Public packages developped by our team
 
-* [TableWriter](https://github.com/cottephi/tablewriter) : Class used to produce a ready-to-compile .tex file containing a table from a pandas or dask DataFrame object. Can also compile the .tex to produce a .pdf.
+* [TableWriter](https://github.com/cottephi/tablewriter) : Class used to produce a ready-to-compile .tex file containing a table from a pandas or dask DataFrame object. Can also compile the .tex to produce a .pdf. Developped by our lead python engineer Philippe Cotte.
+* [AdNMTF](https://github.com/Advestis/adnmtf) : Non-Negative Matrix and Tensor Factorizations. Developped by Paul Fogel.
