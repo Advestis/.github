@@ -4,6 +4,8 @@ More about us at https://advestis.com
 
 ## Our public packages
 
+* [AdAdjust](https://github.com/Advestis/adadjust) : Package allowing to fit any mathematical function to (for now 1-D only) data
+* [AdAnnealing](https://github.com/Advestis/adannealing) : A package doing simulated annealing
 * [IFRA](https://github.com/Advestis/ifra) : Interpretable Federated Rule Algorithm
 * [TransparentPath](https://github.com/Advestis/transparentpath) : A _pathlib_-like way to handle paths on Google Cloud Storage
 * [ruleskit](https://github.com/Advestis/ruleskit) : A package implementing all useful tools for rule-based machine learning algorithms
