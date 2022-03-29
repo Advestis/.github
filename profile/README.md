@@ -1,6 +1,6 @@
 # Advestis
 
-More about us at https://advestis.com
+[![website](https://img.shields.io/badge/website-Advestis.com-blue)](https://www.advestis.com/)
 
 ## Our public packages
 
