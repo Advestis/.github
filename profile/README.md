@@ -1,7 +1,7 @@
 # Advestis
 
+[![linkedin](https://img.shields.io/badge/LinkedIn-Advestis-blue)](https://www.linkedin.com/company/advestis/)
 [![website](https://img.shields.io/badge/website-Advestis.com-blue)](https://www.advestis.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/advestis/)
 
 ## Our public packages
 
