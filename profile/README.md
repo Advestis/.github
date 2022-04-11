@@ -19,6 +19,7 @@
 * [RIPE](https://github.com/Advestis/RIPE) (forked from [thibaulthans/RIPE](https://github.com/thibaulthans/RIPE)) : Implementation of a rule based prediction algorithm called RIPE
 * [RICE](https://github.com/Advestis/RICE) : Implementation of a rule based prediction algorithm called RICE (Rule Induction Covering Estimator). RICE is a deterministic and interpretable algorithm, for regression problem.
 * [Color and Style Cycler](https://github.com/Advestis/color-style-cycler) : Cycler for matplotlib. Can cycle through combination of colors and line or marker styles
+* [AdTypingDecorators](https://github.com/Advestis/adtypingdecorators) : Python decorators allowing to check and/or enforce types in functions' arguments based on typing hints 
 
 ## Public packages developped by our team
 
