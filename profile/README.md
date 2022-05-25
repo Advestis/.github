@@ -13,7 +13,7 @@
 * [mailutiliy](https://github.com/Advestis/mailutility) : A package containing a tool to send mail and a tool to monitor a mailbox easily. Supports remote directories with TransparentPath.
 * [complex](https://github.com/Advestis/complex) : A simple package illustrating good code practices by implementing the notion of complex number
 * [mail_watcher_example](https://github.com/Advestis/mail_watcher_example) : An example of mail watcher cronjob for kubernetes
-* [AdEngine](https://github.com/Advestis/adengine) (coming soon) : A package wrapped around Dask, mpi4py and basic Python's multiprocessing libraries providing an easy way to make parallel codes 
+* [AdParallelEngine](https://github.com/Advestis/adparallelengine) : A package wrapped around Dask, mpi4py and basic Python's multiprocessing libraries providing an easy way to make parallel maps
 * [PDFFactory](https://github.com/Advestis/pdffactory) : A class to update and/or create a pdf object, and add pages to it. Supports matplotlib.figure and tablewriter.TableWriter objects.
 * [htmlmerger](https://github.com/Advestis/htmlmerger) : A package allowing to merge all html files in a directory in a single file.
 * [RIPE](https://github.com/Advestis/RIPE) (forked from [thibaulthans/RIPE](https://github.com/thibaulthans/RIPE)) : Implementation of a rule based prediction algorithm called RIPE
