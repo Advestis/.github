@@ -23,7 +23,7 @@
 
 ## Our public repositories associated to published papers
 
-* [Elsevier Energy and AI 2022]((https://github.com/Advestis/els_paper) : Repository for the Elsevier Energy and AI 2022 paper "Stress Testing Electrical Grids: Generative Adversarial Networks For Load Scenario Generation"
+* [Elsevier Energy and AI 2022](https://github.com/Advestis/els_paper) : Repository for the Elsevier Energy and AI 2022 paper "Stress Testing Electrical Grids: Generative Adversarial Networks For Load Scenario Generation"
 
 ## Public packages developped by our team
 
