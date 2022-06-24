@@ -20,12 +20,9 @@
 * [RICE](https://github.com/Advestis/RICE) : Implementation of a rule based prediction algorithm called RICE (Rule Induction Covering Estimator). RICE is a deterministic and interpretable algorithm, for regression problem.
 * [Color and Style Cycler](https://github.com/Advestis/color-style-cycler) : Cycler for matplotlib. Can cycle through combination of colors and line or marker styles
 * [AdTypingDecorators](https://github.com/Advestis/adtypingdecorators) : Python decorators allowing to check and/or enforce types in functions' arguments based on typing hints
+* [TableWriter](https://github.com/cottephi/tablewriter) : Class used to produce a ready-to-compile **.tex** file containing a table from a pandas or dask DataFrame object. Can also compile the **.tex** to produce a **.pdf**. Developped by our Lead Python Engineer Philippe Cotte.
+* [AdNMTF](https://github.com/Advestis/adnmtf) : Non-Negative Matrix and Tensor Factorizations co-developped with our biostatistician Paul Fogel.
 
-## Our public repositories associated to published papers
+## Our published papers
 
 * [Elsevier Energy and AI 2022](https://github.com/Advestis/els_paper) : Repository for the Elsevier Energy and AI 2022 paper "Stress Testing Electrical Grids: Generative Adversarial Networks For Load Scenario Generation"
-
-## Public packages developped by our team
-
-* [TableWriter](https://github.com/cottephi/tablewriter) : Class used to produce a ready-to-compile .tex file containing a table from a pandas or dask DataFrame object. Can also compile the .tex to produce a .pdf. Developped by our lead python engineer Philippe Cotte.
-* [AdNMTF](https://github.com/Advestis/adnmtf) : Non-Negative Matrix and Tensor Factorizations. Developped by Paul Fogel.
