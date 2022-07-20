@@ -23,6 +23,10 @@
 * [TableWriter](https://github.com/cottephi/tablewriter) : Class used to produce a ready-to-compile **.tex** file containing a table from a pandas or dask DataFrame object. Can also compile the **.tex** to produce a **.pdf**. Developped by our Lead Python Engineer Philippe Cotte.
 * [AdNMTF](https://github.com/Advestis/adnmtf) : Non-Negative Matrix and Tensor Factorizations co-developped with our biostatistician Paul Fogel.
 
+## Under construction
+
+* [AdClean](https://github.com/Advestis/adclean) : A package that allows one to clean features prior to a learning process.
+
 ## Our published papers
 
 * [Elsevier Energy and AI 2022](https://github.com/Advestis/els_paper) : Repository for the Elsevier Energy and AI 2022 paper "Stress Testing Electrical Grids: Generative Adversarial Networks For Load Scenario Generation"
