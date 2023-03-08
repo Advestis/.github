@@ -7,7 +7,7 @@
 
 ### Utilities
 
-* [TransparentPath](https://github.com/Advestis/transparentpath) : A _pathlib_-like way to handle paths on Google Cloud Storage. Developed by our Lead Python Engineer Philippe Cotte.
+* [TransparentPath](https://github.com/Advestis/transparentpath) : A _pathlib_-like way to handle paths on Google Cloud Storage. Developed by our former Lead Python Engineer Philippe Cotte.
 * [MailUtility](https://github.com/Advestis/mailutility) : Package containing a tool to send mail and a tool to monitor a mailbox easily. Supports remote directories with TransparentPath.
 * [TableWriter](https://github.com/cottephi/tablewriter) : Class used to produce a ready-to-compile **.tex** file containing a table from a pandas or dask DataFrame object. Can also compile the **.tex** to produce a **.pdf**.
 * [PDFFactory](https://github.com/Advestis/pdffactory) : Class to update and/or create a PDF object, and add pages to it. Supports matplotlib.figure and tablewriter.TableWriter objects.
