@@ -27,7 +27,7 @@ Advestis is now fully integrated into Forvis Mazars, along us to operate as a un
 
 * [IFRA](https://github.com/Advestis/ifra) : Interpretable Federated Rule Algorithm
 * [RIPE](https://github.com/Advestis/RIPE) (forked from [thibaulthans/RIPE](https://github.com/thibaulthans/RIPE)) : Implementation of a rule based prediction algorithm called RIPE
-* [RICE](https://github.com/Advestis/RICE) : Implementation of a rule-based prediction algorithm called RICE (Rule Induction Covering Estimator). RICE is a deterministic and interpretable algorithm, for regression problem.
+* [RICE](https://github.com/Advestis/RICE) : Implementation of a rule-based prediction algorithm called RICE (Rule Induction Covering Estimator). RICE is a deterministic and interpretable algorithm, for regression problem
 * [ruleskit](https://github.com/Advestis/ruleskit) : Package implementing all useful tools for rule-based machine learning algorithms
 * [els_paper](https://github.com/Advestis/els_paper) : Repository for the Elsevier Energy and AI 2022 paper "Stress Testing Electrical Grids: Generative Adversarial Networks For Load Scenario Generation"
 
