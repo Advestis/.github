@@ -1,6 +1,6 @@
 # R&D Forvis Mazars 
 
-Advestis is now fully integrated into Forvis Mazars, along us to operate as a unified team.  
+Advestis is now fully integrated into Forvis Mazars, allowing us to operate as a unified team.  
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-Advestis-blue)](https://www.linkedin.com/company/advestis/)
 [![website](https://img.shields.io/badge/website-Advestis.com-blue)](https://www.advestis.com/)
@@ -37,4 +37,4 @@ Advestis is now fully integrated into Forvis Mazars, along us to operate as a un
 
 ## Our published papers
 
-Our publications are available here : [![publications](https://www.advestis.com/research)] 
+Our publications are available here : <https://www.advestis.com/research> 
