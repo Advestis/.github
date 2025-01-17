@@ -18,12 +18,6 @@ Advestis is now fully integrated into Forvis Mazars, along us to operate as a un
 * [AdRubix](https://github.com/Advestis/adrubix) : RubixHeatmap class for plotting complex, highly customizable heatmaps with metadata as HTML and PNG
 * [AdParallelEngine](https://github.com/Advestis/adparallelengine) : A package wrapped around Dask, mpi4py and basic Python's multiprocessing libraries providing an easy way to make parallel maps
 
-### Best Coding Practices
-
-* [complex](https://github.com/Advestis/complex) : Simple package illustrating good code practices by implementing the notion of complex number. Also used as a template for creating a public Python package.
-* [AdTypingDecorators](https://github.com/Advestis/adtypingdecorators) : Python decorators allowing to check and/or enforce types in functions' arguments based on typing hints
-* [mail_watcher_example](https://github.com/Advestis/mail_watcher_example) : An example of mail watcher cronjob for Kubernetes
-
 ### Numerical Analysis
 
 * [AdAdjust](https://github.com/Advestis/adadjust) : Package allowing to fit any mathematical function to (for now 1D only) data
@@ -38,12 +32,8 @@ Advestis is now fully integrated into Forvis Mazars, along us to operate as a un
 
 ### Multivariate Analysis
 
-* [AdNMTF](https://github.com/Advestis/adnmtf) : Non-Negative Matrix and Tensor Factorizations co-developped with our biostatistician Paul Fogel
-
-## Under construction
-
-* [AdClean](https://github.com/Advestis/adclean) : A package that allows one to clean features prior to a learning process
+* [AdNMTF](https://github.com/Advestis/adnmtf) : Non-Negative Matrix and Tensor Factorizations
 
 ## Our published papers
 
-* [Elsevier Energy and AI 2022](https://github.com/Advestis/els_paper) : Repository for the Elsevier Energy and AI 2022 paper "Stress Testing Electrical Grids: Generative Adversarial Networks For Load Scenario Generation"
+Our publications are available here : [![publications](https://www.advestis.com/research)  
