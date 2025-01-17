@@ -31,6 +31,7 @@ Advestis is now fully integrated into Forvis Mazars, allowing us to operate as a
 * [ruleskit](https://github.com/Advestis/ruleskit) : Package implementing all useful tools for rule-based machine learning algorithms
 * [els_paper](https://github.com/Advestis/els_paper) : Repository for the Elsevier Energy and AI 2022 paper "Stress Testing Electrical Grids: Generative Adversarial Networks For Load Scenario Generation"
 * [ctgan](https://github.com/Advestis/ctgan) : Conditional GAN for generating synthetic tabular data.
+* [Interpretability](https://github.com/Advestis/Interpretability) : Code and Data for the paper A rigorous method to compare interpretability of rule-based algorithms
 
 ### Multivariate Analysis
 
