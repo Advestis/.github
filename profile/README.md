@@ -36,4 +36,4 @@ Advestis is now fully integrated into Forvis Mazars, along us to operate as a un
 
 ## Our published papers
 
-Our publications are available here : [![publications](https://www.advestis.com/research)  
+Our publications are available here : [![publications](https://www.advestis.com/research)] 
