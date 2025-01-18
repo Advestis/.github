@@ -35,10 +35,11 @@ Advestis is now fully integrated into Forvis Mazars, allowing us to operate as a
 
 ### Multivariate Analysis
 
-* [AdNMTF](https://github.com/Advestis/adnmtf) : Non-Negative Matrix and Tensor Factorizations.
-* [adilsm](https://github.com/Advestis/adilsm) : ILSM is Integrated Latent Multi Source Model.
+* [adNMTF](https://github.com/Advestis/adnmtf) : Non-Negative Matrix and Tensor Factorizations.
+* [adILSM](https://github.com/Advestis/adilsm) : ILSM is Integrated Latent Multi Source Model.
 * [nmf-rank-determination](https://github.com/Advestis/nmf-rank-determination) : Official GitHub repository for the original MDPI Mathematics paper.
-* [enAInem](https://github.com/Advestis/enAInem) :  Algotithms for decomposing nonnegative multiway array and multi-view data into rank-1. nonnegative tensors.
+* [enAInem](https://github.com/Advestis/enAInem) :  Algorithms for decomposing nonnegative multiway array and multi-view data into rank-1. nonnegative tensors.
+Note that **enAInem** combines **adNMTF** and **adILSM**, which are maintained for legacy purposes.
 
 ## Our published papers
 
